@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm /Users/jung/.claude/projects/-Users-jung-Projects-Python-msds460-portfolio-optimization/memory/project_overview.md /Users/jung/.claude/projects/-Users-jung-Projects-Python-msds460-portfolio-optimization/memory/MEMORY.md)",
+      "Bash(python -c \"import json; json.load\\(open\\('notebooks/Project_Overview.ipynb'\\)\\)\")"
+    ]
+  }
+}
